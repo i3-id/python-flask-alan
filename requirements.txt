@@ -1,6 +1,0 @@
-gunicorn
-Flask
-flask_bootstrap 
-flask_moment 
-flask_wtf 
-wtforms 
